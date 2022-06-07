@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: avenir-black;
+  src: url(../public/fonts/AvenirBlack.otf);
+}
+
+@font-face {
+  font-family: avenir-book;
+  src: url(../public/fonts/AvenirBook.otf);
+}
+
+@font-face {
+  font-family: openSans-bold;
+  src: url(../public/fonts/OpenSansBold.ttf);
+}
+
+@font-face {
+  font-family: openSans-italic;
+  src: url(../public/fonts/OpenSansItalic.ttf);
+}
+
+@font-face {
+  font-family: openSans-regular;
+  src: url(../public/fonts/OpenSansRegular.ttf);
+}
+
+@font-face {
+  font-family: openSans-semibold;
+  src: url(../public/fonts/OpenSansSemibold.ttf);
+}
